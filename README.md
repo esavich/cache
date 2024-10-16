@@ -15,7 +15,7 @@ Optionally, you can use [TinyLFU](https://github.com/vmihailenco/go-tinylfu) or 
 [cache algorithm](https://github.com/vmihailenco/go-cache-benchmark) as a local in-process cache.
 
 If you are interested in monitoring cache hit rate, see the guide for
-[Monitoring using OpenTelemetry Metrics](https://blog.uptrace.dev/posts/opentelemetry-metrics-cache-stats/).
+[Monitoring using OpenTelemetry Metrics](https://uptrace.dev/blog/opentelemetry-metrics-cache-stats.html).
 
 ## Installation
 
